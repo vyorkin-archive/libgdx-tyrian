@@ -1,0 +1,12 @@
+
+level.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shapesz
+  rotate: false
+  xy: 1, 1
+  size: 240, 1736
+  orig: 240, 1736
+  offset: 0, 0
+  index: -1

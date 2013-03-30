@@ -1,0 +1,1152 @@
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+items/companion-ship-gerund
+  rotate: false
+  xy: 310, 56
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+items/gencore-solar-shield
+  rotate: false
+  xy: 120, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+credit/10
+  rotate: false
+  xy: 489, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+credit/10
+  rotate: false
+  xy: 497, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+items/plasma-storm
+  rotate: false
+  xy: 214, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+enemy/transformer
+  rotate: false
+  xy: 213, 84
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: 2
+items/mini-missle
+  rotate: false
+  xy: 310, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+credit/10
+  rotate: false
+  xy: 481, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+enemy/transformer
+  rotate: false
+  xy: 231, 84
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: 1
+enemy/transformer
+  rotate: false
+  xy: 171, 84
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: 4
+enemy/transformer
+  rotate: false
+  xy: 193, 84
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: 3
+enemy/transformer
+  rotate: false
+  xy: 147, 84
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: 5
+explosion/large
+  rotate: false
+  xy: 0, 84
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: 6
+enemy/raptor
+  rotate: false
+  xy: 86, 109
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: 1
+explosion/large
+  rotate: false
+  xy: 496, 56
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 7
+explosion/large
+  rotate: false
+  xy: 485, 56
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: 8
+explosion/large
+  rotate: false
+  xy: 474, 56
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 9
+enemy/raptor
+  rotate: false
+  xy: 66, 109
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: 2
+explosion/large
+  rotate: false
+  xy: 38, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: 2
+items/zica-supercharger
+  rotate: false
+  xy: 299, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+explosion/large
+  rotate: false
+  xy: 30, 84
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+explosion/large
+  rotate: false
+  xy: 22, 84
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 4
+credit/1000
+  rotate: false
+  xy: 0, 135
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+enemy/raptor
+  rotate: false
+  xy: 48, 109
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: 3
+explosion/large
+  rotate: false
+  xy: 11, 84
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: 5
+explosion/large
+  rotate: false
+  xy: 79, 84
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 10
+explosion/large
+  rotate: false
+  xy: 67, 84
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 11
+explosion/large
+  rotate: false
+  xy: 90, 84
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 1
+items/microcorp-lxs-class-a
+  rotate: false
+  xy: 382, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+explosion/large
+  rotate: false
+  xy: 55, 84
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 12
+items/microcorp-lxs-class-b
+  rotate: false
+  xy: 358, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/proton-cannon-tangerine
+  rotate: false
+  xy: 166, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/microcorp-lxs-class-c
+  rotate: false
+  xy: 334, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+explosion/large
+  rotate: false
+  xy: 43, 84
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 13
+items/heavy-missle-launcher
+  rotate: false
+  xy: 72, 56
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+items/sonic-wave
+  rotate: false
+  xy: 48, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/gencore-custom-mr-12
+  rotate: false
+  xy: 166, 56
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+items/standart-mr-9
+  rotate: false
+  xy: 0, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/mega-missle
+  rotate: false
+  xy: 478, 28
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+enemy/ring
+  rotate: false
+  xy: 450, 84
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 4
+enemy/ring
+  rotate: false
+  xy: 426, 84
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 5
+shot/circle
+  rotate: false
+  xy: 21, 0
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 2
+enemy/ring
+  rotate: false
+  xy: 0, 109
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 2
+shot/circle
+  rotate: false
+  xy: 14, 0
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 3
+enemy/ring
+  rotate: false
+  xy: 474, 84
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 3
+ship/gencore
+  rotate: false
+  xy: 163, 0
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: 2
+shot/circle
+  rotate: false
+  xy: 28, 0
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 1
+enemy/ring
+  rotate: false
+  xy: 24, 109
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 1
+ship/gencore
+  rotate: false
+  xy: 146, 0
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: 3
+explosion/small
+  rotate: false
+  xy: 38, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: 2
+items/fireball
+  rotate: false
+  xy: 214, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+explosion/small
+  rotate: false
+  xy: 38, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: 4
+explosion/small
+  rotate: false
+  xy: 30, 84
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+enemy/ring
+  rotate: false
+  xy: 356, 84
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 8
+items/standart-microfusion
+  rotate: false
+  xy: 24, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship/gencore
+  rotate: false
+  xy: 181, 0
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: 1
+explosion/small
+  rotate: false
+  xy: 90, 84
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 5
+enemy/ring
+  rotate: false
+  xy: 402, 84
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 6
+enemy/ring
+  rotate: false
+  xy: 378, 84
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: 7
+explosion/small
+  rotate: false
+  xy: 90, 84
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 1
+credit/75
+  rotate: false
+  xy: 363, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 2
+credit/75
+  rotate: false
+  xy: 372, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 1
+items/scatter-wave
+  rotate: false
+  xy: 94, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+shot/single
+  rotate: false
+  xy: 0, 0
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+credit/75
+  rotate: false
+  xy: 354, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 3
+items/8-way-microbomb
+  rotate: false
+  xy: 450, 56
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+credit/250
+  rotate: false
+  xy: 458, 109
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+items/dual-shot-option
+  rotate: false
+  xy: 238, 56
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+enemy/tank
+  rotate: false
+  xy: 247, 84
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: 4
+enemy/bug
+  rotate: false
+  xy: 148, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 6
+enemy/tank
+  rotate: false
+  xy: 280, 84
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: 2
+items/laser
+  rotate: false
+  xy: 48, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+enemy/tank
+  rotate: false
+  xy: 262, 84
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: 3
+enemy/bug
+  rotate: false
+  xy: 104, 109
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 8
+enemy/bug
+  rotate: false
+  xy: 124, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 7
+enemy/tank
+  rotate: false
+  xy: 296, 84
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: 1
+enemy/bug
+  rotate: false
+  xy: 244, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 2
+enemy/bug
+  rotate: false
+  xy: 268, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 1
+enemy/bug
+  rotate: false
+  xy: 196, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 4
+enemy/bug
+  rotate: false
+  xy: 220, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 3
+coin/green
+  rotate: false
+  xy: 86, 135
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: 4
+enemy/bug
+  rotate: false
+  xy: 172, 109
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: 5
+coin/green
+  rotate: false
+  xy: 98, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 2
+items/pulse-cannon
+  rotate: false
+  xy: 118, 28
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+items/single-shot-option
+  rotate: false
+  xy: 72, 28
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+coin/green
+  rotate: false
+  xy: 79, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 5
+items/mega-pulse
+  rotate: false
+  xy: 454, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+coin/green
+  rotate: false
+  xy: 91, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 3
+items/structural-integrity-field
+  rotate: false
+  xy: 441, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+coin/green
+  rotate: false
+  xy: 107, 135
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 1
+items/phoenix-device
+  rotate: false
+  xy: 238, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/missle-launcher
+  rotate: false
+  xy: 286, 28
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+coin/green
+  rotate: false
+  xy: 70, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 6
+enemy/worm
+  rotate: false
+  xy: 111, 84
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: 4
+items/zica-flamethrower
+  rotate: false
+  xy: 347, 0
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+enemy/worm
+  rotate: false
+  xy: 102, 84
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: 5
+enemy/worm
+  rotate: false
+  xy: 127, 84
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: 2
+enemy/worm
+  rotate: false
+  xy: 118, 84
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: 3
+enemy/worm
+  rotate: false
+  xy: 136, 84
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: 1
+coin/gray
+  rotate: false
+  xy: 118, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 6
+credit/50
+  rotate: false
+  xy: 390, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 2
+credit/50
+  rotate: false
+  xy: 399, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 1
+credit/50
+  rotate: false
+  xy: 381, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 3
+ship/carrot
+  rotate: false
+  xy: 216, 0
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 2
+ship/carrot
+  rotate: false
+  xy: 203, 0
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 3
+coin/gray
+  rotate: false
+  xy: 155, 135
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 1
+enemy/worm
+  rotate: false
+  xy: 93, 84
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: 6
+ship/carrot
+  rotate: false
+  xy: 229, 0
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: 1
+coin/gray
+  rotate: false
+  xy: 134, 135
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: 4
+coin/gray
+  rotate: false
+  xy: 127, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 5
+coin/gray
+  rotate: false
+  xy: 146, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 2
+items/vulcan-cannon-a
+  rotate: false
+  xy: 417, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+coin/gray
+  rotate: false
+  xy: 139, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 3
+items/vulcan-cannon-b
+  rotate: false
+  xy: 393, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/vulcan-cannon-c
+  rotate: false
+  xy: 369, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+credit/5000
+  rotate: false
+  xy: 408, 109
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+credit/800
+  rotate: false
+  xy: 343, 109
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+credit/500
+  rotate: false
+  xy: 420, 109
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+items/zica-laser
+  rotate: false
+  xy: 323, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+credit/100
+  rotate: false
+  xy: 11, 135
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+enemy/alien
+  rotate: false
+  xy: 309, 109
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: 2
+enemy/alien
+  rotate: false
+  xy: 326, 109
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: 1
+items/proton
+  rotate: false
+  xy: 142, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+enemy/alien
+  rotate: false
+  xy: 292, 109
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: 3
+items/frontblaster
+  rotate: false
+  xy: 190, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+enemy/sukhoi
+  rotate: false
+  xy: 341, 84
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: 1
+enemy/sukhoi
+  rotate: false
+  xy: 324, 84
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: 2
+items/microcorp-hxs-class-a
+  rotate: false
+  xy: 430, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship/microcorp
+  rotate: false
+  xy: 104, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: 2
+items/microcorp-hxs-class-c
+  rotate: false
+  xy: 406, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship/microcorp
+  rotate: false
+  xy: 83, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: 3
+enemy/sukhoi
+  rotate: false
+  xy: 309, 84
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: 3
+items/post-it-mine
+  rotate: false
+  xy: 190, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship/microcorp
+  rotate: false
+  xy: 125, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: 1
+items/bubble-gum-gun
+  rotate: false
+  xy: 332, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/gravitron-pulse-wave
+  rotate: false
+  xy: 96, 56
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+coin/purple
+  rotate: false
+  xy: 59, 135
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 1
+items/gencore-energy-shield
+  rotate: false
+  xy: 144, 56
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+coin/purple
+  rotate: false
+  xy: 50, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 2
+coin/purple
+  rotate: false
+  xy: 43, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 3
+coin/purple
+  rotate: false
+  xy: 38, 135
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: 4
+coin/purple
+  rotate: false
+  xy: 31, 135
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 5
+coin/purple
+  rotate: false
+  xy: 22, 135
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: 6
+items/starburst
+  rotate: false
+  xy: 465, 0
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/multi-cannon
+  rotate: false
+  xy: 262, 28
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/advanced-integrity-field
+  rotate: false
+  xy: 426, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/dragon-frost
+  rotate: false
+  xy: 262, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/companion-ship-warfly
+  rotate: false
+  xy: 286, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+shot/double
+  rotate: false
+  xy: 4, 0
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+items/mega-cannon
+  rotate: false
+  xy: 0, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/advanced-microfusion
+  rotate: false
+  xy: 404, 56
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+ship/arcade
+  rotate: false
+  xy: 261, 0
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 2
+ship/arcade
+  rotate: false
+  xy: 242, 0
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 3
+ship/arcade
+  rotate: false
+  xy: 280, 0
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 1
+credit/25
+  rotate: false
+  xy: 440, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 2
+credit/25
+  rotate: false
+  xy: 449, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 1
+credit/25
+  rotate: false
+  xy: 431, 109
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: 3
+items/advanced-mr-12
+  rotate: false
+  xy: 380, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+ship/usp
+  rotate: false
+  xy: 49, 0
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: 2
+ship/usp
+  rotate: false
+  xy: 35, 0
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: 3
+ship/usp
+  rotate: false
+  xy: 65, 0
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: 1
+items/atom-bombs
+  rotate: false
+  xy: 356, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+items/lighting-cannon
+  rotate: false
+  xy: 24, 56
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+credit/2000
+  rotate: false
+  xy: 469, 109
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
